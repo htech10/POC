@@ -1,4 +1,4 @@
-App.java output after 8 executions:
+App.java output after 8 executions::
 Hello World!
 { "_id" : { "$oid" : "577f872346f5b423576e2a9e"} , "UNDGNumber" : "78654" , "Class" : "A" , "TechName" : "HP & SS Tech" , "AdditionalInfo" : 100 , "DateCreated" : { "$date" : "2016-07-08T10:57:39.351Z"}}
 { "_id" : { "$oid" : "577f879a46f58b2d993d2126"} , "UNDGNumber" : "78654" , "Class" : "A" , "TechName" : "HP & SS Tech" , "AdditionalInfo" : 100 , "DateCreated" : { "$date" : "2016-07-08T10:59:38.982Z"}}
